@@ -16,6 +16,8 @@ codingan program lengkap
     return 0;
     }
     
-    hasil program 
+    
+hasil program 
     
     
+![img](https://github.com/AbdulahHanafi/aray-contoh-6-karakter-yang-tidak-diinisialisasi-/blob/master/antara%20real%20dan%20gak.png?raw=true)
